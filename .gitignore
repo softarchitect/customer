@@ -1,0 +1,18 @@
+node_modules
+.next
+out
+npm-debug.log*
+
+.vercel
+
+.env
+.env.local
+.env.*.local
+
+__pycache__/
+*.pyc
+
+# Google Cloud service account credentials
+trade-*.json
+*credentials*.json
+*service-account*.json

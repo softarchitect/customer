@@ -1,0 +1,18 @@
+{
+  "475": {
+    "sent_whatsapp": false,
+    "sent_email": false,
+    "sent_telegram": false,
+    "sent_other": false,
+    "received": false,
+    "note": ""
+  },
+  "755": {
+    "sent_whatsapp": false,
+    "sent_email": false,
+    "sent_telegram": false,
+    "sent_other": false,
+    "received": false,
+    "note": ""
+  }
+}
